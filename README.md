@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatthewFeroz
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Backend Software Engineering
+- 🌱 I’m currently learning Python, JavaScript, Go 
 - 💞️ I’m looking to collaborate on unique projects
 - 📫 How to reach me: https://www.linkedin.com/in/matthewferoz/
 - 😄 Pronouns: he/him
